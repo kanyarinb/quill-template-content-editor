@@ -15,6 +15,7 @@ This repository shows content editor customized from Quill.js for easy usage
 3. open 2 terminal; 1st: run `npm start`, 2nd: run `npm run watch` => for dev
 4. in 3rd terminal windown: install serve `npm install -g serve`
 5. serve web: `serve .` or `serve <project_path>`
+6. open browser `localhost:<port_number_from_serve_terminal>`
 
 ## Reference
 
